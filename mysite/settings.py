@@ -25,7 +25,7 @@ SECRET_KEY = 'mbz=gp)zbujpm*35yzs68!wvot@!s98+)%qd=(0s5r%^fnbqko'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['polinkuprin.pythonanywhere.com', ]
 
 
 # Application definition
